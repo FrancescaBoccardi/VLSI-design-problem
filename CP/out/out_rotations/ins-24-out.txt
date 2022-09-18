@@ -1,0 +1,24 @@
+31 31
+19
+3 3 12 0 Not rotated
+3 4 12 3 Not rotated
+3 5 12 7 Not rotated
+3 6 22 0 Not rotated
+7 3 18 28 Rotated
+3 8 12 23 Not rotated
+3 9 25 22 Not rotated
+3 10 22 6 Not rotated
+3 11 12 12 Not rotated
+3 12 22 16 Not rotated
+3 13 28 4 Not rotated
+3 14 28 17 Not rotated
+3 22 25 0 Not rotated
+3 31 15 0 Not rotated
+3 4 28 0 Rotated
+4 7 18 21 Not rotated
+4 8 18 13 Not rotated
+4 13 18 0 Not rotated
+12 31 0 0 Not rotated
+----------
+==========
+7.09224299993366

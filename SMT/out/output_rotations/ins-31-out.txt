@@ -1,0 +1,24 @@
+38 38
+19
+38 24 0 0 Rotated
+16 4 7 30 Rotated
+15 4 10 34 Rotated
+12 4 23 30 Rotated
+4 11 3 24 Not rotated
+13 3 25 24 Rotated
+11 3 14 27 Rotated
+8 4 25 34 Rotated
+10 3 25 27 Rotated
+3 9 0 29 Not rotated
+4 6 7 24 Not rotated
+8 3 11 24 Rotated
+3 7 35 27 Not rotated
+5 4 33 34 Rotated
+6 3 19 24 Rotated
+3 5 0 24 Not rotated
+3 4 7 34 Rotated
+4 3 3 35 Rotated
+3 3 11 27 Not rotated
+----------
+==========
+197.04747104644775

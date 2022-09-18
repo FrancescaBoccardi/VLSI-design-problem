@@ -1,0 +1,17 @@
+17 17
+12
+3 3 7 0 Not rotated
+3 4 6 3 Not rotated
+5 3 6 7 Rotated
+6 3 11 7 Rotated
+7 3 0 0 Rotated
+8 3 0 14 Rotated
+9 3 8 14 Rotated
+3 4 0 10 Rotated
+8 4 9 3 Rotated
+14 4 3 10 Rotated
+7 3 10 0 Not rotated
+6 7 0 3 Rotated
+----------
+==========
+0.549347200198099

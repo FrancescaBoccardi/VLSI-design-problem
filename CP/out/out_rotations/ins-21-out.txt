@@ -1,0 +1,27 @@
+28 28
+22
+3 3 0 6 Not rotated
+4 3 3 10 Rotated
+5 3 23 0 Rotated
+6 3 0 20 Rotated
+3 7 25 9 Not rotated
+8 3 20 25 Rotated
+9 3 16 13 Rotated
+10 3 10 25 Rotated
+11 3 0 3 Rotated
+16 3 0 13 Rotated
+17 3 11 3 Rotated
+21 3 7 6 Rotated
+23 3 0 0 Rotated
+3 4 0 9 Rotated
+4 4 3 6 Not rotated
+5 4 7 9 Rotated
+4 8 6 20 Not rotated
+13 4 12 9 Rotated
+23 4 0 16 Rotated
+6 5 0 23 Rotated
+5 9 23 16 Not rotated
+13 5 10 20 Rotated
+----------
+==========
+59.31764809996821

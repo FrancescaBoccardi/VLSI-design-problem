@@ -83,7 +83,7 @@ $ python SMT.py
 ````
 $ python MIP.py
 ````
-By lanching the .py files, output files and plots will be automatically created and saved respectively into ````out```` and  ````plots```` folders.
+By lanching the .py files, output files and images to visualize the solutions will be automatically created and saved respectively into ````out```` and  ````plots```` folders.
 
 ## Authors
 

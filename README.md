@@ -14,39 +14,39 @@ This repository describes three different Combinatorial Optimization approaches 
 ````
 .
 ├── CP                      
-|   ├── instances                       # Input instances in dzn format 
+|   ├── instances                     # Input instances in dzn format 
 |   ├── out                             
-|   │   ├── out_no_rotations            # Output .txt files containing the solutions for the CP no-rotation model
-|   │   ├── out_rotations               # Output .txt files containing the solutions for the CP rotation model
+|   │   ├── out_no_rotations          # Output .txt files containing the solutions for the CP no-rotation model
+|   │   ├── out_rotations             # Output .txt files containing the solutions for the CP rotation model
 |   ├── plots                             
-|   │   ├── plots_no_rotations          # Images to visualize the feasible solutions for the CP no-rotation model 
-|   │   ├── plots_rotations             # Images to visualize the feasible solutions for the CP rotation model
+|   │   ├── plots_no_rotations        # Images to visualize the feasible solutions for the CP no-rotation model 
+|   │   ├── plots_rotations           # Images to visualize the feasible solutions for the CP rotation model
 |   ├── src                             
-|   │   ├── CP.py                       # Script to launch the CP models, contained in the .mzn files 
-|   │   ├── CP_no_rotations.mzn         # CP no rotation model
-|   │   ├── CP_rotations.mzn            # CP rotation moodel
+|   │   ├── CP.py                     # Script to launch the CP models, contained in the .mzn files 
+|   │   ├── CP_no_rotations.mzn       # CP no rotation model
+|   │   ├── CP_rotations.mzn          # CP rotation moodel
 ├── SMT                      
-|   ├── instances                       # Input instances in dzn format 
+|   ├── instances                     # Input instances in dzn format 
 |   ├── out                             
-|   │   ├── out_no_rotations            # Output .txt files containing the solutions for the SMT no-rotation model
-|   │   ├── out_rotations               # Output .txt files containing the solutions for the SMT rotation model
+|   │   ├── out_no_rotations          # Output .txt files containing the solutions for the SMT no-rotation model
+|   │   ├── out_rotations             # Output .txt files containing the solutions for the SMT rotation model
 |   ├── plots                             
-|   │   ├── plots_no_rotations          # Images to visualize the feasible solutions for the SMT no-rotation model 
-|   │   ├── plots_rotations             # Images to visualize the feasible solutions for the SMT rotation model
+|   │   ├── plots_no_rotations        # Images to visualize the feasible solutions for the SMT no-rotation model 
+|   │   ├── plots_rotations           # Images to visualize the feasible solutions for the SMT rotation model
 |   ├── src                             
-|   │   ├── SMT.py                      # Script to create and launch the SMT models
+|   │   ├── SMT.py                    # Script to create and launch the SMT models
 ├── MIP                      
-|   ├── instances                       # Input instances in dzn format 
+|   ├── instances                     # Input instances in dzn format 
 |   ├── out                             
-|   │   ├── out_no_rotations            # Output .txt files containing the solutions for the MIP no-rotation model
-|   │   ├── out_rotations               # Output .txt files containing the solutions for the MIP rotation model
+|   │   ├── out_no_rotations          # Output .txt files containing the solutions for the MIP no-rotation model
+|   │   ├── out_rotations             # Output .txt files containing the solutions for the MIP rotation model
 |   ├── plots                             
-|   │   ├── plots_no_rotations          # Images to visualize the feasible solutions for the MIP no-rotation model 
-|   │   ├── plots_rotations             # Images to visualize the feasible solutions for the MIP rotation model
+|   │   ├── plots_no_rotations        # Images to visualize the feasible solutions for the MIP no-rotation model 
+|   │   ├── plots_rotations           # Images to visualize the feasible solutions for the MIP rotation model
 |   ├── src                             
-|   │   ├── MIP.py                      # Script to create and launch the MIP models
+|   │   ├── MIP.py                    # Script to create and launch the MIP models
 ├── README.md
-├── VLSI_report.pdf                     # Report of the whole project  
+├── VLSI_report.pdf                   # Report of the whole project  
 ````
 
 ## Requirements

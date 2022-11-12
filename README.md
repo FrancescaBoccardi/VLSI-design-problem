@@ -7,7 +7,7 @@ This repository describes three different Combinatorial Optimization approaches 
 
 * Constraint Programming (CP)
 * Satisfiability Modulo Theories (SMT)
-* Mixed Integer-Linear Programming (MIP)
+* Mixed-Integer Linear Programming (MIP)
 
 ## Repository structure
 
